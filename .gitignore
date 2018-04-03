@@ -1,0 +1,7 @@
+# IntelliJ project files
+.idea
+root-build
+*.iml
+out
+gen
+
